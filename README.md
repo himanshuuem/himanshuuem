@@ -1,10 +1,10 @@
-![Intro](./assets/hero.svg?v=3)
+[![Himanshu — M.Tech IT at IIEST Shibpur, ML for Social IoT (SIoT) security. Click for the full portfolio.](./assets/hero.svg?v=4)](https://himanshuuem.github.io/)
 
-![About](./assets/about-life.svg?v=3)
+[![What I work on: SIoT security, reversible and quantum circuits, applied ML, agentic AI; plus hobbies.](./assets/about-life.svg?v=4)](https://himanshuuem.github.io/#research)
 
-![Stack](./assets/stack.svg?v=3)
+[![Tech stack: Python, C++, Java, ML and NLP libraries, AI agent tooling, Docker, Git and more.](./assets/stack.svg?v=4)](https://himanshuuem.github.io/#skills)
 
-![ID](./assets/id-dashboard.svg?v=3)
+[![ID card and verified stats: GATE 92.5 percentile, CodeVita AIR 1257, 13.5% fewer gates, 97% accuracy.](./assets/id-dashboard.svg?v=4)](https://himanshuuem.github.io/#experience)
 
 ### Projects
 
@@ -16,6 +16,10 @@
 | **Real-time face recognition** | Haar-cascade detection with KNN / CNN recognition; 97% accuracy on 1K+ images, p95 < 700 ms | Python · Keras | Jun – Jul 2022 |
 | **CPS threat detector** | SVM / Random Forest / MLP models on power-grid, SWaT and KDD’99 data | scikit-learn | May – Jun 2022 |
 
-![Connect](./assets/connect.svg?v=3)
+[![Let’s build something — choose a channel below.](./assets/connect.svg?v=4)](https://himanshuuem.github.io/#contact)
 
-<p align="center"><a href="https://github.com/himanshuuem"><b>GitHub</b></a> · <a href="https://www.linkedin.com/in/himanshuuem"><b>LinkedIn</b></a> · <a href="https://himanshuuem.github.io/"><b>Website</b></a></p>
+<p align="center">
+<a href="https://github.com/himanshuuem"><img src="./assets/link-github.svg?v=4" width="32%" alt="GitHub: github.com/himanshuuem"></a>
+<a href="https://www.linkedin.com/in/himanshuuem"><img src="./assets/link-linkedin.svg?v=4" width="32%" alt="LinkedIn: in/himanshuuem"></a>
+<a href="https://himanshuuem.github.io/"><img src="./assets/link-website.svg?v=4" width="32%" alt="Website: himanshuuem.github.io"></a>
+</p>
