@@ -1,10 +1,10 @@
-![Intro](./assets/hero.svg?v=2)
+![Intro](./assets/hero.svg?v=3)
 
-![About](./assets/about-life.svg?v=2)
+![About](./assets/about-life.svg?v=3)
 
-![Stack](./assets/stack.svg?v=2)
+![Stack](./assets/stack.svg?v=3)
 
-![ID](./assets/id-dashboard.svg?v=2)
+![ID](./assets/id-dashboard.svg?v=3)
 
 ### Projects
 
@@ -16,6 +16,6 @@
 | **Real-time face recognition** | Haar-cascade detection with KNN / CNN recognition; 97% accuracy on 1K+ images, p95 < 700 ms | Python · Keras | Jun – Jul 2022 |
 | **CPS threat detector** | SVM / Random Forest / MLP models on power-grid, SWaT and KDD’99 data | scikit-learn | May – Jun 2022 |
 
-![Connect](./assets/connect.svg?v=2)
+![Connect](./assets/connect.svg?v=3)
 
 <p align="center"><a href="https://github.com/himanshuuem"><b>GitHub</b></a> · <a href="https://www.linkedin.com/in/himanshuuem"><b>LinkedIn</b></a> · <a href="https://himanshuuem.github.io/"><b>Website</b></a></p>
