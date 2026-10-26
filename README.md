@@ -10,6 +10,7 @@
 
 | Project | What it does | Stack | When |
 |---|---|---|---|
+| **[Lab Grader](https://github.com/himanshuuem/lab-autograder)** | Auto-grades programming labs from Google Classroom: repairs code mangled by Word/Docs, OCRs output screenshots, runs each program in a Docker sandbox, flags copied code; a TA approves before grades publish | Python · FastAPI · Docker · MCP · OCR | 2026 |
 | **SOCRATES (M.Tech thesis)** | IDS + trust scoring for Social IoT: fuses social-graph topology with network-traffic features to catch cross-layer attacks | Python · ML · SIoT datasets | May 2026 – now |
 | **Reversible NTT multiplier** | 4-point NTT polynomial multiplier from four reusable reversible blocks; 13.5% fewer gates, 0 mismatches on 174,366 vectors | Reversible logic | Jun – Jul 2026 |
 | **Apparel recommender** | Content-based recommendations with BoW / TF-IDF / Word2Vec; Flask REST API in Docker, p99 200 ms at 500+ concurrent users | Python · Flask · Docker | Jan – Feb 2023 |
